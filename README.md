@@ -28,3 +28,7 @@
 | CAAFE  | -1.57%    | -3.01%     | -2.89%    | 1.32%     | -1.54%    |
 | OCTree | -0.50%    | 4.45%      | 2.89%     | 1.17%     | 2.00%     |
 | Ours   | **0.29%** | **17.90%** | **4.33%** | **2.23%** | **6.19%** |
+
+#### Average Gain per Round
+
+![Average Gain per Round](average_gain_per_round.png)
